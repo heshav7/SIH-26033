@@ -91,7 +91,8 @@ For the PPT, add: (a) the flow chart above, (b) a system architecture diagram, (
 •	Economic: higher farmer income, lower consumer prices, less value lost to hidden margins.
 •	Social: trust and fairness in agri-trade; empowers FPOs and small farmers; digital inclusion.
 •	Environmental: less wastage and fewer wasted transport trips through pooled, optimized routes.
-•	Governance: data-driven monitoring of price spreads across crops and districts.
+•	Governance: data-driven monitoring of price spreads across crops and districts
+
 ## Research and References
 •	e-NAM (National Agriculture Market): https://enam.gov.in
 •	Agmarknet (mandi price data): https://agmarknet.gov.in
