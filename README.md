@@ -83,10 +83,10 @@ For the PPT, add: (a) the flow chart above, (b) a system architecture diagram, (
 
 ## Impact and Benefits
 1.  Potential impact on target audience
-•	 Farmers/FPOs: know a fair price before selling, keep a larger share, get paid faster.
-•	 Consumers: see why they pay what they pay and can buy at lower, fairer prices.
-•	 Bulk buyers: predictable pricing and supply.
-•	 Government: real-time evidence of where price gaps arise, to target policy.
+  •	 Farmers/FPOs: know a fair price before selling, keep a larger share, get paid faster.
+  •	 Consumers: see why they pay what they pay and can buy at lower, fairer prices.
+  •	 Bulk buyers: predictable pricing and supply.
+  • 	 Government: real-time evidence of where price gaps arise, to target policy.
 
 
 ## Research and References
