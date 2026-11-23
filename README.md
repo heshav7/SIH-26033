@@ -91,9 +91,12 @@ For the PPT, add: (a) the flow chart above, (b) a system architecture diagram, (
 
 ## Research and References
        •	e-NAM (National Agriculture Market): https://enam.gov.in
-•	Agmarknet (mandi price data): https://agmarknet.gov.in
-•	ONDC (Open Network for Digital Commerce): https://ondc.org
-•	Ministry of Consumer Affairs, Food & Public Distribution (price monitoring): https://consumeraffairs.nic.in
+       
+       •	Agmarknet (mandi price data): https://agmarknet.gov.in
+       
+       •	ONDC (Open Network for Digital Commerce): https://ondc.org
+       
+       •	Ministry of Consumer Affairs, Food & Public Distribution (price monitoring): https://consumeraffairs.nic.in
 •	Google OR-Tools, vehicle routing: https://developers.google.com/optimization/routing
 •	Prophet forecasting library: https://facebook.github.io/prophet/
 •	SHAP (explainable ML): https://shap.readthedocs.io
