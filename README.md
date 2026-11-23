@@ -82,15 +82,12 @@ For the PPT, add: (a) the flow chart above, (b) a system architecture diagram, (
 •	Invite traders to act as logistics or aggregation partners instead of excluding them.
 
 ## Impact and Benefits
-1. Potential impact on target audience•	Farmers/FPOs: know a fair price before selling, keep a larger share, get paid faster.
+1. Potential impact on target audience
+•	Farmers/FPOs: know a fair price before selling, keep a larger share, get paid faster.
 •	Consumers: see why they pay what they pay and can buy at lower, fairer prices.
 •	Bulk buyers: predictable pricing and supply.
 •	Government: real-time evidence of where price gaps arise, to target policy.
-2. Benefits
-•	Economic: higher farmer income, lower consumer prices, less value lost to hidden margins.
-•	Social: trust and fairness in agri-trade; empowers FPOs and small farmers; digital inclusion.
-•	Environmental: less wastage and fewer wasted transport trips through pooled, optimized routes.
-•	Governance: data-driven monitoring of price spreads across crops and districts
+
 
 ## Research and References
 •	e-NAM (National Agriculture Market): https://enam.gov.in
